@@ -18,4 +18,4 @@
    3. Wall- a prefab that has collider and rigidbody. The player can't go through the wall.
      https://github.com/Noa-Amit/game-task4-visible-bounds/blob/main/Assets/Prefabs/Wall.prefab
      
-     We put 4 walls at the camera's frame.
+   We put 4 walls at the camera's frame.
